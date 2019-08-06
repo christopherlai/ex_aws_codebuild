@@ -21,6 +21,7 @@ Documentation can be found at https://hexdocs.pm/ex_aws_codebuild.
 
 ## Code Status
 [![Build Status](https://travis-ci.org/christopherlai/ex_aws_codebuild.svg?branch=master)](https://travis-ci.org/christopherlai/ex_aws_codebuild)
+[![Hex pm](https://img.shields.io/hexpm/v/ex_aws_codebuild.svg?style=flat)](https://hex.pm/packages/ex_aws_codebuild)
 
 ## License
 
